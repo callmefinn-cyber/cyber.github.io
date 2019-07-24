@@ -1,4 +1,3 @@
-[![Discord](https://img.shields.io/discord/479643633814077465.svg?style=for-the-badge&label=Discord%20Chat&colorB=7289da)](https://discord.gg/rPpg6pS)
 Hello New Member Welcome to cyberevil. watch the below tutorial on How to use cyberevil server.
 
 Cyberevil Discord Server link is in down below
