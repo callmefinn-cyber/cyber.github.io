@@ -1,6 +1,6 @@
-Hello New Member Welcome to cyberevil. watch the below tutorial on How to use cyberevil server.
+<span style="color: green"> Cyberevil</span> Hello New Member Welcome to cyberevil. watch the below tutorial on How to use cyberevil server.
 
-Cyberevil Discord Server link is in down below
+<span style="color: green"> Cyberevil</span> Discord Server link is in down below
 ![cyberevil tut](https://user-images.githubusercontent.com/53229636/61729125-36f06500-ad94-11e9-9d16-eed986c7f781.gif)
 
 
