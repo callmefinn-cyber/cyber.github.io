@@ -7,7 +7,7 @@
 
 Hey there here is Our server invite link use it and join , have a look at this Discord Channel:
 
-[![Discord](https://img.shields.io/discord/479643633814077465.svg?style=for-the-badge&label=Discord%20Chat&colorB=7289da)](https://discord.gg/rPpg6pS)
+[![Discord](https://img.shields.io/discord/598435537400889385.svg?style=for-the-badge&label=Discord%20Chat&colorB=7289da)](https://discord.gg/rPpg6pS)
 
 
 
